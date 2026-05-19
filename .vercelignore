@@ -1,0 +1,5 @@
+# El handoff es la fuente de diseño, no parte del sitio publicado
+_handoff/
+
+# Docs internas
+CLAUDE.md
